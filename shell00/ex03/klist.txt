@@ -1,0 +1,5 @@
+Credentials cache: API:6BA880CA-DBBC-49F0-A7E6-EAC1B94C052E
+        Principal: acloutie@42QUEBEC.COM
+
+  Issued                Expires               Principal
+Feb 10 13:07:08 2021  Feb 10 23:07:08 2021  krbtgt/42QUEBEC.COM@42QUEBEC.COM
